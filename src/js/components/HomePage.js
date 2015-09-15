@@ -35,7 +35,7 @@ var HomePage = React.createClass({
     console.log('homepage');
     return (
       <div>
-        <Link to='/event/10'>ayy</Link>
+        <Link to='/event/1'>Escape Halloween</Link>
         <FestivalSearchForm onSearch={this.onSearchSubmit} />
       </div>
     );
