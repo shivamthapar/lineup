@@ -1,0 +1,265 @@
+{
+  "name": "Escape 2015",
+  "tags": [
+    "edm",
+    "escape",
+    "halloween",
+    "psycho",
+    "circus"
+  ],
+  "artists":
+  [
+    {
+      "name": "Above & Beyond",
+      "link": "https://www.insomniac.com/content/above-beyond"
+    },
+    {
+      "name": "Amine Edge & DANCE",
+      "link": "https://www.insomniac.com/artist/amine-edge-dance"
+    },
+    {
+      "name": "Andrew Bayer",
+      "link": "https://www.insomniac.com/content/andrew-bayer"
+    },
+    {
+      "name": "Aryay",
+      "link": "https://www.insomniac.com/artist/aryay"
+    },
+    {
+      "name": "Bassrush Experience",
+      "link": "http://www.bassrush.com/"
+    },
+    {
+      "name": "Benny Benassi",
+      "link": "https://www.insomniac.com/artist/benny-benassi"
+    },
+    {
+      "name": "Black Tiger Sex Machine",
+      "link": "https://www.insomniac.com/artist/black-tiger-sex-machine"
+    },
+    {
+      "name": "Blasterjaxx",
+      "link": "https://www.insomniac.com/content/blasterjaxx"
+    },
+    {
+      "name": "Breach",
+      "link": "https://www.insomniac.com/artist/breach"
+    },
+    {
+      "name": "Breathe Carolina",
+      "link": "https://www.insomniac.com/artist/breathe-carolina"
+    },
+    {
+      "name": "Brennan Grey",
+      "link": "https://www.insomniac.com/artist/brennan-grey"
+    },
+    {
+      "name": "Catz N' Dogz",
+      "link": "https://www.insomniac.com/artist/catz-n-dogz"
+    },
+    {
+      "name": "Crizzly",
+      "link": "https://www.insomniac.com/content/crizzly"
+    },
+    {
+      "name": "D.O.D",
+      "link": "https://www.insomniac.com/artist/dod"
+    },
+    {
+      "name": "Dannic",
+      "link": "https://www.insomniac.com/content/dannic"
+    },
+    {
+      "name": "Dash Berlin",
+      "link": "https://www.insomniac.com/content/dash-berlin"
+    },
+    {
+      "name": "DBSTF",
+      "link": "https://www.insomniac.com/content/d-block-s-te-fan"
+    },
+    {
+      "name": "Dimitri Vegas & Like Mike",
+      "link": "https://www.insomniac.com/content/dimitri-vegas-and-mike"
+    },
+    {
+      "name": "Dirtyphonics",
+      "link": "https://www.insomniac.com/content/dirtyphonics"
+    },
+    {
+      "name": "DJ Snake",
+      "link": "https://www.insomniac.com/content/dj-snake"
+    },
+    {
+      "name": "Dr. Fresch",
+      "link": "https://www.insomniac.com/content/dr-fresch"
+    },
+    {
+      "name": "Dubfire",
+      "link": "https://www.insomniac.com/content/dubfire"
+    },
+    {
+      "name": "Ed Rush & Optical",
+      "link": "https://www.insomniac.com/content/ed-rush-optical"
+    },
+    {
+      "name": "Ephwurd",
+      "link": "https://www.insomniac.com/artist/ephwurd"
+    },
+    {
+      "name": "Eric Prydz",
+      "link": "https://www.insomniac.com/content/eric-prydz"
+    },
+    {
+      "name": "ETC!ETC!",
+      "link": "https://www.insomniac.com/content/etcetc"
+    },
+    {
+      "name": "Excision",
+      "link": "https://www.insomniac.com/content/excision"
+    },
+    {
+      "name": "Firebeatz",
+      "link": "https://www.insomniac.com/content/firebeatz"
+    },
+    {
+      "name": "Flux Pavilion",
+      "link": "https://www.insomniac.com/content/flux-pavilion"
+    },
+    {
+      "name": "FuntCase",
+      "link": "https://www.insomniac.com/content/funtcase"
+    },
+    {
+      "name": "Gina Turner",
+      "link": "https://www.insomniac.com/content/gina-turner"
+    },
+    {
+      "name": "Hot Since 82",
+      "link": "https://www.insomniac.com/artist/hot-82"
+    },
+    {
+      "name": "Ilan Bluestone",
+      "link": "https://www.insomniac.com/artist/ilan-bluestone"
+    },
+    {
+      "name": "Jackal",
+      "link": "https://www.insomniac.com/artist/jackal"
+    },
+    {
+      "name": "John Digweed",
+      "link": "https://www.insomniac.com/content/john-digweed"
+    },
+    {
+      "name": "Joris Voorn",
+      "link": "https://www.insomniac.com/artist/joris-voorn"
+    },
+    {
+      "name": "Justin James",
+      "link": "https://www.insomniac.com/artist/justin-james"
+    },
+    {
+      "name": "Justin Martin",
+      "link": "https://www.insomniac.com/content/justin-martin"
+    },
+    {
+      "name": "Kidnap Kid",
+      "link": "https://www.insomniac.com/artist/kidnap-kid"
+    },
+    {
+      "name": "Laidback Luke",
+      "link": "https://www.insomniac.com/content/laidback-luke"
+    },
+    {
+      "name": "Le Youth",
+      "link": "https://www.insomniac.com/artist/le-youth"
+    },
+    {
+      "name": "Lee K",
+      "link": "https://www.insomniac.com/artist/lee-k"
+    },
+    {
+      "name": "Loco Dice",
+      "link": "https://www.insomniac.com/content/loco-dice"
+    },
+    {
+      "name": "MAKJ",
+      "link": "https://www.insomniac.com/artist/makj"
+    },
+    {
+      "name": "Marc Houle (Live)",
+      "link": "https://www.insomniac.com/artist/marc-houle"
+    },
+    {
+      "name": "Markus Schulz",
+      "link": "https://www.insomniac.com/content/markus-schulz"
+    },
+    {
+      "name": "Martin Garrix",
+      "link": "https://www.insomniac.com/content/martin-garrix"
+    },
+    {
+      "name": "Mat Zo",
+      "link": "https://www.insomniac.com/content/mat-zo"
+    },
+    {
+      "name": "Moby",
+      "link": "https://www.insomniac.com/content/moby"
+    },
+    {
+      "name": "Party Favor",
+      "link": "https://www.insomniac.com/artist/party-favor"
+    },
+    {
+      "name": "Party Thieves",
+      "link": "https://www.insomniac.com/artist/party-thieves"
+    },
+    {
+      "name": "Paul Van Dyk",
+      "link": "https://www.insomniac.com/artist/paul-van-dyk"
+    },
+    {
+      "name": "Prolix",
+      "link": "https://www.insomniac.com/content/prolix"
+    },
+    {
+      "name": "Recondite (Live)",
+      "link": "https://www.insomniac.com/artist/recondite"
+    },
+    {
+      "name": "Richie Hawtin",
+      "link": "https://www.insomniac.com/content/richie-hawtin"
+    },
+    {
+      "name": "Seven Lions",
+      "link": "https://www.insomniac.com/content/seven-lions"
+    },
+    {
+      "name": "Shaun Frank",
+      "link": "https://www.insomniac.com/artist/shaun-frank"
+    },
+    {
+      "name": "Showtek",
+      "link": "https://www.insomniac.com/content/showtek"
+    },
+    {
+      "name": "Solomun",
+      "link": "https://www.insomniac.com/artist/solomun"
+    },
+    {
+      "name": "Subb-an",
+      "link": "https://www.insomniac.com/artist/subb-an"
+    },
+    {
+      "name": "Sunnery James & Ryan Marciano",
+      "link": "https://www.insomniac.com/content/sunnery-james-ryan-marciano"
+    },
+    {
+      "name": "The Magician",
+      "link": "https://www.insomniac.com/artist/magician"
+    },
+    {
+      "name": "The Upbeats",
+      "link": "https://www.insomniac.com/content/upbeats"
+    }
+  ]
+}

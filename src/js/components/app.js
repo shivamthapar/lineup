@@ -1,16 +1,38 @@
 /** @jsx React.DOM */
 var React = require('react');
-var AppActions = require('../actions/AppActions');
-var AppStore = require('../stores/AppStore');
+var history = require('history');
+var ReactRouter = require('react-router');
+var Router = ReactRouter.Router;
+var Route = ReactRouter.Route;
+var Link = ReactRouter.Link;
+var IndexRoute = ReactRouter.IndexRoute;
+
+/*
+var Actions = require('../actions/AppActions');
+var Stores = require('../stores/AppStore');
+*/
+var Constants = require('../constants/AppConstants');
+var HomePage = require('../components/HomePage');
+var EventPage = require('../components/EventPage');
 
 var App = React.createClass({
-    handleClick:function(){
-      AppActions.addItem('this is the item');
+    getInitialState: function(){
+      return {
+        page: Constants.Pages.HOME
+      };
     },
     render:function(){
+      /*
+      var page;
+      switch(this.state.page){
+        case Constants.Pages.HOME: page = <HomePage />; break;
+        case Constants.Pages.EVENT: page = <EventPage />; break;
+      }
+      */
       return (
         <div className="wrapper">
-          <h3 onClick={this.handleClick}>Click this Title, then check console</h3>
+          <Link to='/'>Home</Link>
+          <Link to='/events'>events</Link>
         </div>
       )
     }
