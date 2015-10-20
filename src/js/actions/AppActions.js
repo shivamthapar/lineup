@@ -2,11 +2,11 @@ var AppDispatcher = require('../dispatcher/AppDispatcher');
 var AppConstants = require('../constants/AppConstants');
 
 var AppActions = {
-  addItem: function(item){
-    AppDispatcher.handleViewAction({
-      actionType:AppConstants.ADD_ITEM,
-      item: item
-    })
+  receiveEventData: function(rawEvent){
+    AppDispatcher.dispatch({
+      type: AppConstants.ActionTypes.RECEIVE_EVENT_DATA,
+      rawEvent: rawEvent
+    });
   }
 }
 

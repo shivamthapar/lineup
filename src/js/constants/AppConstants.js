@@ -4,5 +4,8 @@ module.exports = {
   Pages: {
     HOME: 'HOME',
     EVENT: 'EVENT'
+  },
+  ActionTypes: {
+    RECEIVE_EVENT_DATA: 'RECEIVE_EVENT_DATA'
   }
 };

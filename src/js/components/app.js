@@ -6,6 +6,7 @@ var Router = ReactRouter.Router;
 var Route = ReactRouter.Route;
 var Link = ReactRouter.Link;
 var IndexRoute = ReactRouter.IndexRoute;
+var EventWebAPIUtils = require('./utils/EventWebAPIUtils.js')
 
 /*
 var Actions = require('../actions/AppActions');
@@ -14,6 +15,7 @@ var Stores = require('../stores/AppStore');
 var Constants = require('../constants/AppConstants');
 var HomePage = require('../components/HomePage');
 var EventPage = require('../components/EventPage');
+
 
 var App = React.createClass({
     getInitialState: function(){

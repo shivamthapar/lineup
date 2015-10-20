@@ -1,0 +1,6 @@
+.artistList li.spotify{
+  color: green
+}
+.artistList li.noSpotify{
+  color: gray
+}
