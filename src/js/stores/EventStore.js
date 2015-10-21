@@ -15,6 +15,8 @@ var _event = {};
 var EventStore = assign({}, EventEmitter.prototype, {
   init: function(e){
       _event.eventId = e.id;
+      _event.startDate = e.startDate;
+      _event.endDate = e.endDate;;
       _event.name = e.name;
       _event.tags = e.tags;
       e.artists.forEach(function(artist){

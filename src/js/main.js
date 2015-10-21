@@ -7,12 +7,14 @@ var history = require('history');
 var IndexRoute = ReactRouter.IndexRoute;
 var HomePage = require('./components/HomePage.js');
 var EventPage = require('./components/EventPage.js');
+var injectTapEventPlugin = require("react-tap-event-plugin");
+
+injectTapEventPlugin();
 
 const App = React.createClass({
   render() {
     return (
       <div id="wrapper">
-        <h1>Lineup</h1>
         {this.props.children}
       </div>
     )
